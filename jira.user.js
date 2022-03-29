@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Jira
-// @version      1.0.1
+// @version      1.0.2
 // @author       Donnie Ian
 // @downloadURL  https://github.com/debbbbie/MyBrowserJS/raw/main/jira.user.js
 // @updateURL    https://github.com/debbbbie/MyBrowserJS/raw/main/jira.user.js
